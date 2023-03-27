@@ -1,0 +1,12 @@
+glance:
+    css: 'div.your-baby__dev__descr-c__items__item__body-c__headline'
+    xpath: '//div[contains(concat(" ",normalize-space(@class)," ")," your-baby__dev__descr-c__items__item__body-c__body ")]'
+    multiple: true
+    type: Text
+
+size:
+    css: 'section.your-baby p:nth-of-type(2)'
+    xpath: '//section[contains(concat(" ",normalize-space(@class)," ")," your-baby ")]//p[2]'
+    multiple: true
+    type: Text
+
