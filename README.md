@@ -4,7 +4,7 @@ User data will be stored in our database and users will receive baby development
 A microservice is used to scrape baby development information from https://www.whattoexpect.com/pregnancy/week-by-week/.
 
 <p align="center">
-    <img src="https://github.com/bingyingchu/django-form/blob/main/job_application/static/django-form.png">
+    <img src="https://github.com/bingyingchu/baby-dev/blob/main/baby_dev/static/baby-dev.png">
 <p>
 
 #### To run this app locally, you can
