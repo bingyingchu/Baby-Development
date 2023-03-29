@@ -1,6 +1,5 @@
-# Baby Development Information Scraping Tool built with Python Django
-This app allows users to get baby development information by submitting their week in pregnancy and choice. 
-User data will be stored in our database and users will receive baby development info by email. 
+# Introduction
+This web scraping tool is built with Python Django, which allows users to get baby development information by submitting their week in pregnancy and choice. User data is stored in the database and users receive baby development info by email after submitting the form. 
 A microservice is used to scrape baby development information from https://www.whattoexpect.com/pregnancy/week-by-week/.
 
 <p align="center">
